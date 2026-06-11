@@ -4,3 +4,7 @@ opencv-python
 torch
 torchvision
 scikit-learn
+jupyter
+pandas
+scipy
+seaborn
